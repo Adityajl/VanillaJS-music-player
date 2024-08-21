@@ -1,2 +1,3 @@
 # VanillaJS-music-player
-A simple static music
+A simple VanillaJS music player (used as for micro functionalities in clones).
+
